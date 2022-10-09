@@ -22,6 +22,7 @@ header {
   max-inline-size: 75rem;
   padding-inline: 2rem;
   gap: 1rem;
+  filter: blur(3px)
 }
 header .logo {
   padding: 0.5rem;
